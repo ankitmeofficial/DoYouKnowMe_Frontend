@@ -62,7 +62,7 @@ const Footer = () => {
                 <Code2 size={20} />
               </div>
               <span>
-                {personalDetails.name}<span style={{ color: 'var(--primary-cyan)' }}>.dev</span>
+                doyouknowme<span style={{ color: 'var(--primary-cyan)' }}>.online</span>
               </span>
             </a>
             <p style={{ color: 'var(--text-muted)', fontSize: '0.9rem' }}>

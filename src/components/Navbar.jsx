@@ -104,7 +104,7 @@ const Navbar = () => {
             <Code2 size={22} />
           </div>
           <span>
-            Ankit<span style={{ color: 'var(--primary-cyan)' }}>.dev</span>
+            doyouknowme<span style={{ color: 'var(--primary-cyan)' }}>.online</span>
           </span>
         </a>
 

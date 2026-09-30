@@ -1,5 +1,7 @@
 export const personalDetails = {
   name: "Ankit Kumar Singh",
+  domain: "doyouknowme.online",
+  website: "https://doyouknowme.online",
   headline: "Full Stack MERN Developer",
   subHeadline: "Specializing in secure, scalable, & high-performance web applications.",
   location: "Bangalore, Karnataka, India",

@@ -274,7 +274,7 @@ const LoadingScreen = ({ onFinish }) => {
             marginBottom: '0.4rem',
           }}
         >
-          ANKIT<span style={{ color: 'var(--primary-cyan)' }}>.DEV</span>
+          DOYOUKNOWME<span style={{ color: 'var(--primary-cyan)' }}>.ONLINE</span>
         </h2>
 
         {/* Status Line */}
